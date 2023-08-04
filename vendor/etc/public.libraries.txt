@@ -1,0 +1,3 @@
+libOpenCL.so
+libiqi_bridge.so
+libOpenCL.so

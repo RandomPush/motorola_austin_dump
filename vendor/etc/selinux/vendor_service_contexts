@@ -1,0 +1,44 @@
+#line 1 "device/mediatek/sepolicy/bsp/non_plat/service_contexts"
+# ==============================================
+# MTK Policy Rule
+# ==============================================
+
+android.hardware.neuralnetworks.IDevice/mtk-gpu_shim    u:object_r:hal_neuralnetworks_service:s0
+android.hardware.neuralnetworks.IDevice/mtk-dsp_shim    u:object_r:hal_neuralnetworks_service:s0
+android.hardware.neuralnetworks.IDevice/mtk-mdla_shim   u:object_r:hal_neuralnetworks_service:s0
+android.hardware.neuralnetworks.IDevice/mtk-neuron_shim u:object_r:hal_neuralnetworks_service:s0
+#line 1 "motorola/security/sepolicy_vendor/vendor/common/moto/service_contexts"
+## NOTE: Contexts added in this file MUST start with a blank line as below.
+
+motorola.hardware.power.IPowerExt/default          u:object_r:hal_powerext_service:s0
+
+##NOTE: DO NOT change the last line, keep it as blank!.
+#line 1 "motorola/security/sepolicy_vendor/features/sarwifi/vendor/service_contexts"
+## NOTE: Contexts added in this file MUST start with a blank line as below.
+
+motorola.hardware.sarwifi.IMtkWifi/default                    u:object_r:hal_motsarwifi_service:s0
+
+##NOTE: DO NOT change the last line, keep it as blank!.
+
+#line 1 "motorola/security/sepolicy_vendor/features/rsu/vendor/service_contexts"
+## NOTE: Contexts added in this file MUST start with a blank line as below.
+
+vendor.trustonic.alps.alps_device::IAlps    u:object_r:alpsdevice_service:s0
+
+##NOTE: DO NOT change the last line, keep it as blank!.
+
+#line 1 "motorola/security/sepolicy_vendor/features/fingerprint/vendor/common/service_contexts"
+# NOTE: Contexts added in this file MUST start with a blank line as below.
+
+com.motorola.hardware.biometric.fingerprint.IMotoFingerPrint/default        u:object_r:hal_fingerprint_test_service:s0
+com.motorola.hardware.biometric.fingerprint.IMotoFodSensorTest/default      u:object_r:hal_fingerprint_test_service:s0
+com.motorola.hardware.biometric.fingerprint.IMotoCaptiveSensorTest/default        u:object_r:hal_fingerprint_test_service:s0
+
+#
+#line 1 "motorola/security/sepolicy_vendor/features/fingerprint/vendor/egis/service_contexts"
+## NOTE: Contexts added in this file MUST start with a blank line as below.
+
+#Egis Fingerprint
+android.hardware.fingerprint.IFingerprintService    u:object_r:egistec_fingerprint_service:s0
+
+##NOTE: DO NOT change the last line, keep it as blank!.

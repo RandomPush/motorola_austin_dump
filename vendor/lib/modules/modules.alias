@@ -1,0 +1,20 @@
+# Aliases extracted from modules themselves.
+alias i2c:sx937x sx937x_sar
+alias sdio:c*v037Ad018A* wmt_drv
+alias sdio:c*v037Ad018B* wmt_drv
+alias sdio:c*v037Ad018C* wmt_drv
+alias sdio:c*v037Ad6619* wmt_drv
+alias sdio:c*v037Ad020A* wmt_drv
+alias sdio:c*v037Ad020B* wmt_drv
+alias sdio:c*v037Ad020C* wmt_drv
+alias sdio:c*v037Ad5921* wmt_drv
+alias sdio:c*v037Ad6628* wmt_drv
+alias sdio:c*v037Ad6630* wmt_drv
+alias sdio:c*v037Ad6602* wmt_drv
+alias sdio:c*v037Ad6632* wmt_drv
+alias i2c:aw883xx_smartpa aw883xx_dlkm
+alias usbfunc:usbnet moto_f_usbnet
+alias spi:fpsensor-drivers fpsensor_spi
+alias of:N*T*Cmediatek,finger-chipone fpsensor_spi
+alias of:N*T*Cmediatek,finger-chiponeC* fpsensor_spi
+alias fs-exfat exfat

@@ -1,0 +1,7 @@
+#
+# ETS320 Touch sensor driver
+#
+
+# ets320 "finger present"
+key 109   SYSTEM_NAVIGATION_LEFT
+
