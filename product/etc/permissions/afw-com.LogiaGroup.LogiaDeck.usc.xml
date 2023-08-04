@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+    <disallowed-managed-device  package="com.LogiaGroup.LogiaDeck"/>
+    <disallowed-managed-profile package="com.LogiaGroup.LogiaDeck"/>
+    <disallowed-managed-user    package="com.LogiaGroup.LogiaDeck"/>
+</config>
+

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config-default-tones>
+    <config name="default_ringtone" value="CricketRing.ogg"/>
+    <config name="default_notification_sound" value="CricketPiano.ogg"/>
+    <config name="default_alarm_alert" value=""/>
+</config-default-tones>

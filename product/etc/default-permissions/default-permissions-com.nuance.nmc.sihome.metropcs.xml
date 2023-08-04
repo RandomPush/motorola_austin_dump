@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!-- b/26832467 -->
+<exceptions>
+    <exception package="com.nuance.nmc.sihome.metropcs">
+        <permission name="android.permission.PROCESS_OUTGOING_CALLS"/>
+        <permission name="android.permission.WRITE_CALL_LOG"/>
+        <permission name="android.permission.CALL_PHONE"/>
+        <permission name="android.permission.READ_PHONE_STATE"/>
+    </exception>
+</exceptions>

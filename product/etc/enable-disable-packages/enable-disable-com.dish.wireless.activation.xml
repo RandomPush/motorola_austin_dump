@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<enable-disable-package>
+    <package-disable-enable-criteria package="com.dish.wireless.activation" systemOnly="false" carrierBased="true" default_action="disable">
+        <criteria action="enable" channel="boost" mccmnc="313340" gid="6332"/>
+        <criteria action="enable" channel="boost" mccmnc="313340" gid="6336"/>
+        <criteria action="enable" channel="boost" mccmnc="313340" gid="7330"/>
+        <criteria action="enable" channel="boost" mccmnc="313340" gid="6630"/>
+        <criteria action="enable" channel="boost" mccmnc="313340" gid="6538"/>
+        <criteria action="enable" channel="boost" mccmnc="313340" gid="6530"/>
+        <criteria action="enable" channel="boost" mccmnc="313340" gid="6532"/>
+    </package-disable-enable-criteria>
+</enable-disable-package>

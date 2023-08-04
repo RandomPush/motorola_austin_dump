@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+    <allow-in-power-save package="com.trustonic.rsu.support" />
+    <allow-in-data-usage-save package="com.trustonic.rsu.support" />
+</config>

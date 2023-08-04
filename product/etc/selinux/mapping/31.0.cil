@@ -1,0 +1,6 @@
+(expandtypeattribute (arcore_app_31_0) true)
+(expandtypeattribute (moto_stylus_app_31_0) true)
+(expandtypeattribute (radio_cc_version_prop_31_0) true)
+(typeattributeset arcore_app_31_0 (arcore_app))
+(typeattributeset moto_stylus_app_31_0 (moto_stylus_app))
+(typeattributeset radio_cc_version_prop_31_0 (radio_cc_version_prop))

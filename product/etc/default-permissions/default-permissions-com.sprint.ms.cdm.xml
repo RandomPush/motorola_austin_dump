@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<exceptions>
+    <exception package="com.sprint.ms.cdm">
+        <permission name="android.permission.CALL_PHONE" fixed="false"/>
+    </exception>
+</exceptions>

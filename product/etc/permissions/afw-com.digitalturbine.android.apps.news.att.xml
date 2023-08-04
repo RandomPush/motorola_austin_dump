@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+    <disallowed-managed-device package="com.digitalturbine.android.apps.news.att"/>
+    <disallowed-managed-profile package="com.digitalturbine.android.apps.news.att"/>
+    <disallowed-managed-user package="com.digitalturbine.android.apps.news.att"/>
+</config>

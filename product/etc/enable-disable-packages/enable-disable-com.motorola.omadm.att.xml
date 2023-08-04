@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<enable-disable-package>
+    <package-disable-enable-criteria package="com.motorola.omadm.att" checkOnReboot="true" carrierBased="true" default_action="disable">
+        <criteria action="enable" channel="cricket;att;attpre" mccmnc="00101"/>
+        <criteria action="enable" channel="cricket;att;attpre" mccmnc="310170"/>
+        <criteria action="enable" channel="cricket;att;attpre" mccmnc="310410"/>
+        <criteria action="enable" channel="cricket;att;attpre" mccmnc="310560"/>
+        <criteria action="enable" channel="cricket;att;attpre" mccmnc="311180"/>
+        <criteria action="enable" channel="cricket;att;attpre" mccmnc="310030"/>
+        <criteria action="enable" channel="cricket;att;attpre" mccmnc="310280"/>
+        <criteria action="enable" channel="cricket;att;attpre" mccmnc="310380"/>
+        <criteria action="enable" channel="cricket;att;attpre" mccmnc="310950"/>
+        <criteria action="enable" channel="cricket;att;attpre" mccmnc="313100"/>
+        <criteria action="enable" channel="cricket;att;attpre" mccmnc="312670"/>
+        <criteria action="enable" channel="cricket;att;attpre" mccmnc="313110"/>
+        <criteria action="enable" channel="cricket;att;attpre" mccmnc="313120"/>
+        <criteria action="enable" channel="cricket;att;attpre" mccmnc="313130"/>
+        <criteria action="enable" channel="cricket;att;attpre" mccmnc="313140"/>
+        <criteria action="enable" channel="cricket;att;attpre" mccmnc="334050"/>
+        <criteria action="enable" channel="cricket;att;attpre" mccmnc="334090"/>
+        <criteria action="enable" channel="cricket;att;attpre" mccmnc="310150"/>
+        <criteria action="enable" channel="cricket;att;attpre" mccmnc="310070"/>
+        <criteria action="enable" channel="cricket;att;attpre" mccmnc="310680"/>
+    </package-disable-enable-criteria>
+</enable-disable-package>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<config>
+    <unavailable-feature name="com.motorola.messaging" prop="ro.mot.enable_tmo_messaging_ps_feature" />
+    <unavailable-feature name="com.motorola.messaging.att" prop="ro.mot.enable_att_messaging_ps_feature" />
+</config>

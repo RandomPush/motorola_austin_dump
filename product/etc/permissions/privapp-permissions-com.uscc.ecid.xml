@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<permissions>
+  <privapp-permissions package="com.uscc.ecid">
+    <permission name="android.permission.MODIFY_PHONE_STATE"/>
+  </privapp-permissions>
+</permissions>

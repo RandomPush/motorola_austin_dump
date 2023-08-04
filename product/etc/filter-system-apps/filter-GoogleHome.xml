@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<filter-system-apps>
+    <module name="GoogleHome" action="enable" prop="ro.carrier" value="tracfone;usc;vzw;vzwpre"/>
+</filter-system-apps>

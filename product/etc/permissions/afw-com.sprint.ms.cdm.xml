@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+    <disallowed-managed-device package="com.sprint.ms.cdm"/>
+    <disallowed-managed-profile package="com.sprint.ms.cdm"/>
+    <disallowed-managed-user package="com.sprint.ms.cdm"/>
+</config>

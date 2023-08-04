@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+ <permissions>
+     <privapp-permissions package="com.motorola.extensions.tracfone">
+         <permission name="android.permission.READ_PRIVILEGED_PHONE_STATE"/>
+         <permission name="android.permission.MODIFY_PHONE_STATE"/>
+         <permission name="android.permission.SHUTDOWN"/>
+         <permission name="com.motorola.permission.ACCESS_HIDDENMENU_DATA" />
+         <permission name="com.motorola.permission.ACCESS_PRODUCT_PERSIST"/>
+         <permission name="android.permission.START_ACTIVITIES_FROM_BACKGROUND"/>
+     </privapp-permissions>
+ </permissions>

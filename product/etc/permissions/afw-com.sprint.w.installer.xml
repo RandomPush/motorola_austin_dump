@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+    <disallowed-managed-device package="com.sprint.w.installer"/>
+    <disallowed-managed-profile package="com.sprint.w.installer"/>
+    <disallowed-managed-user package="com.sprint.w.installer"/>
+</config>

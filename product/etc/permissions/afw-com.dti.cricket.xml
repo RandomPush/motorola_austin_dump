@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+    <disallowed-managed-device  package="com.dti.cricket"/>
+    <disallowed-managed-profile package="com.dti.cricket"/>
+    <disallowed-managed-user    package="com.dti.cricket"/>
+</config>
+

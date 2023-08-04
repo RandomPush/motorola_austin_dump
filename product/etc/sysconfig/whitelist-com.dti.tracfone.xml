@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- The Ignite whitelist to app-link. -->
+<config>
+  <app-link package="com.dti.tracfone"/>
+</config>

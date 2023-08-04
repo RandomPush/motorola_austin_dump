@@ -1,0 +1,12 @@
+
+s52047–Ü“ù"ˇ)
+#carrier_nr_availabilities_int_array:
+maxImageHeightò
+maxImageWidth†
+moto_dss_int
+moto_smart_5g_enabled_bool( 
+moto_smart_5g_supported_bool(
+recipientLimit&
+roaming_operator_string_array2
+520
+smsToMmsTextThreshold

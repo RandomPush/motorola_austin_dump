@@ -1,0 +1,7 @@
+ro.telephony.default_network=26,10
+persist.vendor.rcs.singlereg.feature=1
+persist.vendor.mtk_rcs_single_reg_support=1
+ro.mot.enable_android.hardware.telephony.ims.singlereg=true
+persist.rcs.supported=1
+persist.vendor.mtk_rcs_ua_support=1
+persist.vendor.mtk_uce_support=1

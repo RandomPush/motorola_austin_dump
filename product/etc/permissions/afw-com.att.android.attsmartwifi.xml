@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+    <disallowed-managed-device package="com.att.android.attsmartwifi"/>
+    <disallowed-managed-profile package="com.att.android.attsmartwifi"/>
+    <disallowed-managed-user package="com.att.android.attsmartwifi"/>
+</config>
