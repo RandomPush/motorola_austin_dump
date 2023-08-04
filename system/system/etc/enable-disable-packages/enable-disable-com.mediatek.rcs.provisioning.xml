@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<enable-disable-package>
+    <package-disable-enable-criteria package="com.mediatek.rcs.provisioning" default_action="disable">
+        <criteria action="enable" prop="persist.vendor.mtk_rcs_single_reg_support" prop_value="1"/>
+    </package-disable-enable-criteria>
+</enable-disable-package>
