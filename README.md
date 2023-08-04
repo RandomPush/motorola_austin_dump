@@ -1,0 +1,14 @@
+# user 13 T1SAS33.73-40-7-1 55b3f release-keys
+- manufacturer: motorola
+- platform: mt6833
+- codename: austin
+- flavor: user
+- release: 13
+- id: T1SAS33.73-40-7-1
+- incremental: 55b3f
+- tags: release-keys
+- fingerprint: motorola/austin_g/austin:12/T1SAS33.73-40-7-1/55b3f:user/release-keys
+- is_ab: true
+- brand: motorola
+- branch: user-13-T1SAS33.73-40-7-1-55b3f-release-keys
+- repo: motorola_austin_dump
